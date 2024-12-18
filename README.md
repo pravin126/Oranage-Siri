@@ -89,4 +89,10 @@ i. Use of Generic API View Classes
 ii. Use of Model Serializers (Nested or simple) in the APIs
 
 
+Endpoints
+Create a Patient: POST /api/patients/
+Retrieve Patient 360: GET /api/patients/<id>/360/
+Add a Family Member: POST /api/family-members/
+Add Medication: POST /api/medications/
+
 
